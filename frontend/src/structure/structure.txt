@@ -1,0 +1,17 @@
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Footer.jsx
+│   ├── Hero.jsx
+│   ├── ServiceCard.jsx
+│   ├── TestimonialCard.jsx
+│   ├── ContactForm.jsx
+├── pages/
+│   ├── Home.jsx
+│   ├── About.jsx
+│   ├── Services.jsx
+│   ├── Portfolio.jsx
+│   ├── Testimonials.jsx
+│   ├── Contact.jsx
+├── App.js
+├── index.js
